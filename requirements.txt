@@ -1,0 +1,6 @@
+pyserial
+websocket-client
+numpy
+matplotlib
+requests
+Pillow
